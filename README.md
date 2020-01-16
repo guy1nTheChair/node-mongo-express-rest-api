@@ -1,5 +1,5 @@
 # node-mongo-express-rest-api
-This is a NodeJS based REST API built with Express JS and MongoDB. 
+This is a Node JS based REST API built with Express JS and Mongo DB. 
 
 # Functionality
 Provide a API to perfom add student/s, remove student/s, update student's data and remove a student from a Students Register.

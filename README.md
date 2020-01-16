@@ -4,7 +4,7 @@ This is a NodeJS based REST API built with Express JS and MongoDB.
 # Functionality
 Provide a API to perfom add student/s, remove student/s, update student's data and remove a student from a Students Register.
 
-#Students
+# Students
 
 Below is the students dataset we've, upon which we'll test the API. 
 

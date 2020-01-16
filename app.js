@@ -4,7 +4,7 @@ const dbClient = require("mongodb").MongoClient;
 const routerModule = require("./routes");
 const PORT = 3000;
 const URI =
-  "mongodb+srv://mongodb:mongodb@cluster0-i0ymi.mongodb.net/test?retryWrites=true&w=majority";
+  "mongodb+srv://<userID>:<password>@cluster0-i0ymi.mongodb.net/test?retryWrites=true&w=majority";
 
 const client = new dbClient(URI, { useNewUrlParser: true });
 
